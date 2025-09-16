@@ -31,5 +31,5 @@ RUN npm install -g http-server
 # Expose port
 EXPOSE 8080
 
-# Start the server
+# Start the server....
 CMD ["http-server", "dist", "-p", "8080", "-c-1"]
