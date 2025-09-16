@@ -88,7 +88,7 @@ A fully functional Super Mario Bros game built with TypeScript, HTML5 Canvas, an
 
 1. **Clone and install dependencies:**
 ```bash
-git clone https://github.com/Sujal-SM/super_mario_docker.git
+git clone https://github.com/Sujal-SM/Super_Mario_Game_Docker.git
 cd super-mario-game
 npm install
 ```
