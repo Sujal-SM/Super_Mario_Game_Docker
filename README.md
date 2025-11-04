@@ -15,6 +15,7 @@ A fully functional Super Mario Bros game built with TypeScript, HTML5 Canvas, an
 
 ## 🏗️ Project Structure
 
+
 ```
 ├── src/
 │   ├── game/
